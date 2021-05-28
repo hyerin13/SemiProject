@@ -8,7 +8,7 @@
 </head>
 <body>
 <ul>
-	<li><a href="login.jsp">회원로그인</a></li>
+	<li><a href="login.jsp">회원로그인login</a></li>
 </ul>
 <%
 	String id="test";
